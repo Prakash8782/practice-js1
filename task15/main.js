@@ -1,8 +1,8 @@
-tamil = 30;
-english = 40;
-maths = 95;
-science = 60;
-social = 80;
+var tamil = 30;
+var english = 40;
+var maths = 95;
+var science = 60;
+var social = 80;
 let grade;
 let grade1;
 let grade2;
@@ -69,7 +69,7 @@ else if (science >= 95) {
     grade3 = "o";
 }
 else {
-    grade3= "r";
+    grade3 = "r";
 }
 console.log("science " + grade3);
 if (social >= 40 && social <= 59) {

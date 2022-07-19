@@ -1,8 +1,8 @@
-let a=7;
-let b=3;
-if(a>b){
+let a = 7;
+let b = 3;
+if (a > b) {
     console.log("a is larger");
 }
-else{
+else {
     console.log("b is larger");
 }
